@@ -14,6 +14,7 @@ Requirements:
 - loops (for, while, do-while)
 - arrays
 - functions
+- pointers and references
 
 Deliverables:
 1. GitHub Repository Link -> Submit to Canvas
